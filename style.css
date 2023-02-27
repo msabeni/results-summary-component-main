@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+.container {
+    display:flex;
+    margin:200px;
+}
+.div1 {
+    background-color: hsl(241, 81%, 54%);
+    padding: 50px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    width: 350px;
+    color:whitesmoke;
+    border-radius: 20px;
+
+}
+.circle {
+    background-color: hsla(256, 72%, 46%, 1);
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+    margin:15px 0;
+}
+.score1 {
+    padding-top: 30px;
+    padding-left:40px;
+    font-size:48px;
+    font-weight:bold;   
+}
+.score2 {
+    padding-top: 8px;
+    padding-left:50px;  
+}
+.class3 {
+    padding-top:10px;
+    text-align: center;
+}
+
+   
