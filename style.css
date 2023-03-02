@@ -6,7 +6,8 @@ box-sizing: border-box;
 .container {
 display:flex;
 margin:200px;
-
+align-items: center;
+justify-content: center;
 }
 .div1 {
 background-color: hsl(241, 81%, 54%);
